@@ -1,0 +1,148 @@
+ Site CodeNode (para escritórios de advocacia)
+Objetivo
+Criar um site one-page da CodeNode para oferecer Sites para escritórios de advocacia, apresentando dois planos:
+
+Site Simples (botão WhatsApp)
+
+Site com Agente IA conectado ao WhatsApp
+
+O design deve ser moderno, focado no setor jurídico, com layout escuro, tipografia elegante e CTAs em dourado.
+
+Identidade visual
+Fundo: #0F172A (escuro jurídico)
+
+Texto: #F8FAFC
+
+CTAs: dourado #D4AF37 (hover #B28D2D)
+
+Tipografia: Merriweather (títulos) e Inter (texto)
+
+Ícones: WhatsApp e Instagram em SVG
+
+Contatos
+WhatsApp: +55 48 9197-4158
+
+Instagram: https://www.instagram.com/codenode.ai/
+
+E-mail: contato@codenode.com.br
+
+Botão flutuante de WhatsApp sempre visível no canto inferior direito com o ícone oficial e cor dourada.
+
+Estrutura do site
+Header
+
+Logo “CodeNode”
+
+Menu com âncoras: Início, Benefícios, Como Funciona, Planos, Sobre, FAQ, Contato
+
+Ícone/link para Instagram
+
+Botão “Falar no WhatsApp”
+
+Hero
+
+Título: Seu Escritório na Era da Inteligência Artificial
+
+Subtítulo: Sites modernos para advogados, com ou sem atendimento automatizado no WhatsApp.
+
+Botões: “Ver Planos” e “Falar no WhatsApp”
+
+Benefícios
+
+Design Moderno Jurídico — estética profissional e tipografia sob medida
+
+Atendimento 24/7 no WhatsApp — triagem e agendamento no plano com agente
+
+Qualificação de Leads — foco nos casos certos, menos tempo perdido
+
+Entrega Rápida — prazos claros e cumpridos
+
+Como Funciona (4 etapas)
+
+Contato no WhatsApp — apresentação de serviços, valores, prazos e agendamento com o time comercial
+
+Produção do Site — identidade, textos e layout alinhados ao cliente
+
+Testes e Ajustes — validação da prévia e ajustes solicitados
+
+Entrega no Ar — publicação no domínio do cliente
+
+Planos e Preços
+
+Site Simples
+
+Implantação: R$ 500
+
+Mensalidade: R$ 30 (primeiro mês grátis)
+
+Prazo: 48h para prévia + 48h após ajustes
+
+Pagamento: R$ 250 entrada + R$ 250 na entrega
+
+Site com Agente IA
+
+Implantação: R$ 2.000
+
+Mensalidade: R$ 200 (primeiro mês grátis)
+
+Prazo: 72h para prévia + 3 dias de testes
+
+Pagamento: R$ 1.000 entrada + R$ 1.000 na entrega
+
+Observação: cliente fornece domínio ou CodeNode registra (custo extra)
+
+Tabela comparativa curta:
+
+Recurso	Site Simples	Site c/ Agente IA
+Botão WhatsApp	✔︎	✔︎
+Triagem & Agendamento	–	✔︎
+Prévia	48h	72h
+Testes dedicados	–	3 dias
+Mensalidade	R$ 30	R$ 200
+1º mês grátis	✔︎	✔︎
+Código fonte incluso	✔︎	✔︎
+
+Sobre a CodeNode
+
+Introduzimos escritórios de advocacia na era da IA, começando pela automatização do atendimento, triagem e agendamento de consultas. Nosso foco é qualificar contatos para que seu escritório invista tempo apenas nos casos certos.
+
+FAQ
+
+Quando recebo a prévia?
+
+Quando o site vai ao ar?
+
+Preciso ter domínio?
+
+Quando começa a mensalidade?
+
+Qual a diferença dos planos?
+
+O que inclui a manutenção do agente?
+
+O código é meu? — Sim. Se no futuro quiser levar para outra hospedagem, entregamos o código fonte completo.
+
+Contato
+
+Botões para WhatsApp, Instagram e E-mail
+
+Formulário: Nome, Escritório, Especialidade, WhatsApp, Mensagem
+
+Envio para contato@codenode.com.br (via EmailJS ou mailto)
+
+Rodapé
+
+Texto legal e aviso de não constituição de aconselhamento jurídico
+
+Links para Política de Privacidade e Termos de Uso
+
+Ícones para Instagram e WhatsApp
+
+Regras de UI
+Uniformidade nos cards: mesma altura e número de linhas de texto em todos os cards de Benefícios, Como Funciona e Planos.
+
+Botões CTAs em dourado, arredondados e responsivos
+
+Navegação suave por âncoras
+
+Layout responsivo e otimizado para mobile
