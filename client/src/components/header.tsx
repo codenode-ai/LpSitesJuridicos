@@ -17,7 +17,7 @@ export default function Header() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center space-x-2">
-            <span className="text-xl font-merriweather font-bold text-legal-gold">CodeNode</span>
+            <span className="text-xl font-merriweather font-bold text-legal-gold">CodeNode.AI</span>
           </div>
           
           {/* Desktop Navigation */}
