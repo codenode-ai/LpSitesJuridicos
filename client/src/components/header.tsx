@@ -17,8 +17,12 @@ export default function Header() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-legal-gold rounded-lg flex items-center justify-center">
-              <Code className="w-5 h-5 text-legal-dark" />
+            <div className="w-12 h-12 rounded-lg overflow-hidden">
+              <img 
+                src="/logo-codenode.png" 
+                alt="CodeNode Logo" 
+                className="w-full h-full object-cover"
+              />
             </div>
             <span className="text-xl font-merriweather font-bold text-legal-gold">CodeNode</span>
           </div>
