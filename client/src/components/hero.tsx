@@ -6,7 +6,7 @@ export default function Hero() {
   return (
     <section id="inicio" className="pt-24 pb-16 px-4">
       <div className="container mx-auto text-center">
-        <div className="max-w-4xl mx-auto mt-[15px] mb-[15px]">
+        <div className="max-w-4xl mx-auto mt-[23px] mb-[23px]">
           <h1 className="text-4xl md:text-6xl font-merriweather font-bold mb-6 leading-tight text-legal-text">
             Seu Escritório na Era da{" "}
             <span className="text-legal-gold">Inteligência Artificial</span>
