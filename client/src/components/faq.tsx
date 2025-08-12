@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { ChevronDown } from "lucide-react";
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@/components/ui/collapsible";
 
 export default function FAQ() {
@@ -64,14 +65,9 @@ export default function FAQ() {
                   className="w-full p-6 text-left flex justify-between items-center hover:bg-legal-accent/20 transition-colors text-legal-text"
                 >
                   <span className="font-semibold">{faq.question}</span>
-                  <svg 
+                  <ChevronDown 
                     className={`w-5 h-5 transition-transform ${openItems.includes(index) ? 'rotate-180' : ''}`}
-                    fill="none" 
-                    stroke="currentColor" 
-                    viewBox="0 0 24 24"
-                  >
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                  </svg>
+                  />
                 </CollapsibleTrigger>
                 <CollapsibleContent className="px-6 pb-6">
                   <p className="text-legal-text/80">{faq.answer}</p>
