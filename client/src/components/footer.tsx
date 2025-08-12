@@ -15,7 +15,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <span className="text-xl font-merriweather font-bold text-legal-gold">CodeNode</span>
+              <span className="text-xl font-merriweather font-bold text-legal-gold">CodeNode.AI</span>
             </div>
             <p className="text-legal-text/70 mb-4">
               Transformando escritórios de advocacia com tecnologia de ponta e design profissional.
