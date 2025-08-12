@@ -19,7 +19,7 @@ export default function Header() {
           <div className="flex items-center space-x-2">
             <div className="w-14 h-14 rounded-full overflow-hidden">
               <img 
-                src="/attached_assets/LogoCodeNodeDouradaCirc_1755040426681.png" 
+                src="/logo-codenode.png" 
                 alt="CodeNode Logo" 
                 className="w-full h-full object-cover"
               />
