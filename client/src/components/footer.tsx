@@ -15,13 +15,6 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <div className="w-8 h-8 rounded-lg overflow-hidden">
-                <img 
-                  src="/logo-codenode.png" 
-                  alt="CodeNode Logo" 
-                  className="w-full h-full object-cover"
-                />
-              </div>
               <span className="text-xl font-merriweather font-bold text-legal-gold">CodeNode</span>
             </div>
             <p className="text-legal-text/70 mb-4">
