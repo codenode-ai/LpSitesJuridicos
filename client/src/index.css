@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --legal-dark: hsl(219, 77%, 8%);
+  --legal-text: hsl(210, 20%, 98%);
+  --legal-gold: hsl(45, 64%, 54%);
+  --legal-gold-hover: hsl(45, 60%, 44%);
+  --legal-secondary: hsl(218, 25%, 17%);
+  --legal-accent: hsl(215, 28%, 29%);
+  
+  --background: var(--legal-dark);
+  --foreground: var(--legal-text);
+  --card: hsl(218, 25%, 17%);
+  --card-foreground: var(--legal-text);
+  --popover: var(--legal-dark);
+  --popover-foreground: var(--legal-text);
+  --primary: var(--legal-gold);
+  --primary-foreground: var(--legal-dark);
+  --secondary: var(--legal-secondary);
+  --secondary-foreground: var(--legal-text);
+  --muted: hsl(215, 28%, 29%);
+  --muted-foreground: hsl(210, 20%, 70%);
+  --accent: var(--legal-accent);
+  --accent-foreground: var(--legal-text);
+  --destructive: hsl(0, 84%, 60%);
+  --destructive-foreground: var(--legal-text);
+  --border: var(--legal-accent);
+  --input: var(--legal-secondary);
+  --ring: var(--legal-gold);
+  
+  --font-merriweather: 'Merriweather', serif;
+  --font-inter: 'Inter', sans-serif;
+  --radius: 0.75rem;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-legal-dark text-legal-text font-inter antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-merriweather);
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .text-legal-dark {
+    color: var(--legal-dark);
+  }
+  
+  .text-legal-text {
+    color: var(--legal-text);
+  }
+  
+  .text-legal-gold {
+    color: var(--legal-gold);
+  }
+  
+  .bg-legal-dark {
+    background-color: var(--legal-dark);
+  }
+  
+  .bg-legal-secondary {
+    background-color: var(--legal-secondary);
+  }
+  
+  .bg-legal-accent {
+    background-color: var(--legal-accent);
+  }
+  
+  .bg-legal-gold {
+    background-color: var(--legal-gold);
+  }
+  
+  .border-legal-accent {
+    border-color: var(--legal-accent);
+  }
+  
+  .border-legal-gold {
+    border-color: var(--legal-gold);
+  }
+  
+  .hover\:bg-legal-gold-hover:hover {
+    background-color: var(--legal-gold-hover);
+  }
+  
+  .hover\:text-legal-gold:hover {
+    color: var(--legal-gold);
+  }
+  
+  .hover\:border-legal-gold:hover {
+    border-color: var(--legal-gold);
+  }
+}
