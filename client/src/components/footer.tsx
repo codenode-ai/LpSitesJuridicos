@@ -82,9 +82,7 @@ export default function Footer() {
         </div>
         
         <div className="border-t border-legal-accent pt-8 text-center">
-          <p className="text-legal-text/60">
-            © 2024 CodeNode. Todos os direitos reservados.
-          </p>
+          <p className="text-legal-text/60">© 2025 CodeNode. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>
