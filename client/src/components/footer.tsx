@@ -1,3 +1,4 @@
+import { Code } from "lucide-react";
 import { SiInstagram } from "react-icons/si";
 
 export default function Footer() {
@@ -16,9 +17,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-8 h-8 bg-legal-gold rounded-lg flex items-center justify-center">
-                <svg className="w-5 h-5 text-legal-dark" fill="currentColor" viewBox="0 0 20 20">
-                  <path d="M13.586 3.586a2 2 0 112.828 2.828l-.793.793-2.828-2.828.793-.793zM11.379 5.793L3 14.172V17h2.828l8.38-8.379-2.83-2.828z" />
-                </svg>
+                <Code className="w-5 h-5 text-legal-dark" />
               </div>
               <span className="text-xl font-merriweather font-bold text-legal-gold">CodeNode</span>
             </div>
