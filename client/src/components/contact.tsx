@@ -97,7 +97,7 @@ export default function Contact() {
               
               <div className="flex items-center space-x-4">
                 <div className="w-12 h-12 bg-legal-gold rounded-full flex items-center justify-center">
-                  <Mail className="w-6 h-6 text-legal-dark" />
+                  <Mail className="w-6 h-6 text-white" />
                 </div>
                 <div>
                   <p className="font-semibold text-legal-text">E-mail</p>
@@ -109,18 +109,6 @@ export default function Contact() {
                   </a>
                 </div>
               </div>
-            </div>
-            
-            <div className="flex space-x-4">
-              <a 
-                href="https://wa.me/5548919741588" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="bg-legal-gold hover:bg-legal-gold-hover text-legal-dark px-6 py-3 rounded-lg font-semibold transition-colors flex items-center"
-              >
-                <WhatsAppIcon />
-                <span className="ml-2">WhatsApp</span>
-              </a>
             </div>
           </div>
           
