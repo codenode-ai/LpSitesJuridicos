@@ -24,7 +24,7 @@ export default function Footer() {
             </p>
             <div className="flex space-x-4">
               <a 
-                href="https://wa.me/5548919741588" 
+                href="https://wa.me/5548991974158" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-legal-text hover:text-legal-gold transition-colors"

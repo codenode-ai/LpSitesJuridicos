@@ -85,7 +85,7 @@ export default function Contact() {
                 <div>
                   <p className="font-semibold text-legal-text">WhatsApp</p>
                   <a 
-                    href="https://wa.me/5548919741588" 
+                    href="https://wa.me/5548991974158" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-legal-gold hover:text-legal-gold-hover transition-colors"
