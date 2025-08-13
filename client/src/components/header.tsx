@@ -53,7 +53,7 @@ export default function Header() {
               href="https://wa.me/554891974158" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="bg-legal-gold hover:bg-legal-gold-hover text-legal-dark px-4 py-2 rounded-lg font-medium transition-colors"
+              className="hidden md:block bg-legal-gold hover:bg-legal-gold-hover text-legal-dark px-4 py-2 rounded-lg font-medium transition-colors"
             >
               Falar no WhatsApp
             </a>
