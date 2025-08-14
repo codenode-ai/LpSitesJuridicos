@@ -28,7 +28,7 @@ export default function FAQ() {
     },
     {
       question: "O que inclui a manutenção do agente?",
-      answer: "Inclui ajustes no fluxo de conversa, atualizações do agente, monitoramento 24/7, relatórios mensais e suporte técnico completo."
+      answer: "Inclui ajustes no fluxo de conversa, atualizações do agente, monitoramento 24/7 e suporte técnico."
     },
     {
       question: "O código é meu?",
