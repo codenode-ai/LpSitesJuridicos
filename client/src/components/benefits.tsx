@@ -20,7 +20,7 @@ export default function Benefits() {
     {
       icon: <Clock className="w-8 h-8" />,
       title: "Entrega Rápida",
-      description: "Prazos claros e cumpridos. Seu site no ar em até 96 horas."
+      description: "Prazos bem definidos. Seu site no ar em até 5 dias."
     }
   ];
 
