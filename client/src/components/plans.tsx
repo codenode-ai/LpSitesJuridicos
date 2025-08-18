@@ -7,7 +7,7 @@ export default function Plans() {
       description: "Presença digital profissional com botão WhatsApp",
       price: "R$ 500",
       priceType: "implantação",
-      monthly: "R$ 30",
+      monthly: "R$ 29.9",
       monthlyNote: "primeiro mês grátis",
       features: [
         "Botão WhatsApp integrado",
@@ -45,7 +45,7 @@ export default function Plans() {
     { feature: "Triagem & Agendamento", simple: false, ai: true },
     { feature: "Prévia", simple: "48h", ai: "72h" },
     { feature: "Testes dedicados", simple: false, ai: "3 dias" },
-    { feature: "Mensalidade", simple: "R$ 30", ai: "R$ 200" },
+    { feature: "Mensalidade", simple: "R$ 29.9", ai: "R$ 200" },
     { feature: "1º mês grátis", simple: true, ai: true },
     { feature: "Código fonte incluso", simple: true, ai: true }
   ];

@@ -4,23 +4,23 @@ export default function Benefits() {
   const benefits = [
     {
       icon: <Star className="w-8 h-8" />,
-      title: "Design Moderno Jurídico",
-      description: "Estética profissional e tipografia sob medida para escritórios de advocacia."
+      title: "Design Moderno",
+      description: "Estética profissional com design sob medida para escritórios de advocacia."
     },
     {
       icon: <MessageCircle className="w-8 h-8" />,
       title: "Atendimento 24/7 no WhatsApp",
-      description: "Triagem e agendamento automático no plano com agente inteligente."
+      description: "Inteligência Artificial no Whatsapp para automatizar o atendimento e o agendamento de consultas."
     },
     {
       icon: <Target className="w-8 h-8" />,
-      title: "Qualificação de Leads",
+      title: "Qualificação de contatos",
       description: "Foco nos casos certos, menos tempo perdido com consultas inadequadas."
     },
     {
       icon: <Clock className="w-8 h-8" />,
       title: "Entrega Rápida",
-      description: "Prazos bem definidos. Seu site no ar em até 5 dias."
+      description: "Seu site poderá estar no ar em até 5 dias úteis."
     }
   ];
 

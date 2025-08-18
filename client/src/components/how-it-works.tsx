@@ -2,23 +2,23 @@ export default function HowItWorks() {
   const steps = [
     {
       number: "1",
-      title: "Contato no WhatsApp",
-      description: "Apresentação de serviços, valores, prazos e agendamento com o time comercial."
+      title: "Contato pelo WhatsApp",
+      description: "Nossa IA de atendimento apresenta os serviços, tira dúvidas e agenda uma conversa com nosso time comercial para acertar detalhes e fechar o pedido"
     },
     {
       number: "2",
       title: "Produção do Site",
-      description: "Identidade visual, textos e layout alinhados ao seu escritório."
+      description: "De posse das informações do seu escritório damos inicio ao desenvolvimento do site até chegarmos à prévia para avaliação."
     },
     {
       number: "3",
       title: "Testes e Ajustes",
-      description: "Validação da prévia e implementação dos ajustes solicitados."
+      description: "Em seguida enviamos um link com o protótipo do site onde evetuais erros poderão ser corrigidos e ajustes solicitados."
     },
     {
       number: "4",
-      title: "Entrega no Ar",
-      description: "Publicação final no domínio do cliente. Seu escritório online!"
+      title: "Entrega do Site",
+      description: "O cliente aprova o protótipo e fornece o domínio para a publicação do site."
     }
   ];
 
