@@ -12,7 +12,7 @@ export default function Hero() {
             <span className="text-legal-gold">profissional</span>
           </h1>
           <p className="text-xl md:text-2xl text-legal-text/80 mb-12 leading-relaxed">
-            Criamos sites modernos para advogados autônomos que ainda não possuem site, com design ético, conteúdo claro e contato imediato via WhatsApp.
+            Criamos sites modernos baseados em templates profissionais, adaptados para advogados autônomos que ainda não possuem presença digital.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button 

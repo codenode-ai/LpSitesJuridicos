@@ -8,11 +8,11 @@ export default function FAQ() {
   const faqs = [
     {
       question: "Quando recebo a prévia?",
-      answer: "Para o Site Essencial, a prévia é entregue em 48h úteis. Para o Site com IA no WhatsApp, em 72h úteis após confirmação do pagamento da entrada."
+      answer: "Para o Site Essencial, a prévia é entregue em 48h úteis. Para o Site com IA no WhatsApp, em 72h úteis após confirmação do pagamento."
     },
     {
       question: "Quando o site vai ao ar?",
-      answer: "O Site Essencial vai ao ar 48h após aprovação da prévia. O Site com IA no WhatsApp vai ao ar após 3 dias de testes e aprovação final."
+      answer: "O Site Essencial vai ao ar 48h após aprovação da prévia. O Site com IA no WhatsApp vai ao ar após 3 dias dedicados de testes do agente de IA e aprovação final."
     },
     {
       question: "Preciso ter domínio?",
@@ -20,11 +20,15 @@ export default function FAQ() {
     },
     {
       question: "Quando começa a mensalidade?",
-      answer: "A mensalidade começa a ser cobrada 30 dias após o site estar no ar. O primeiro mês é totalmente grátis em ambos os planos."
+      answer: "A mensalidade começa a ser cobrada após o primeiro mês de uso. O primeiro mês é totalmente grátis em ambos os planos."
     },
     {
       question: "Qual a diferença dos planos?",
-      answer: "O Site Essencial inclui apenas o botão WhatsApp. O Site com IA no WhatsApp inclui atendimento automatizado 24/7, triagem de leads e agendamento de consultas."
+      answer: "O Site Essencial é baseado em template adaptado com botão WhatsApp. O Site com IA no WhatsApp inclui tudo isso mais atendimento automatizado 24/7, triagem de leads e agendamento de consultas."
+    },
+    {
+      question: "Como funciona o período de testes do agente de IA?",
+      answer: "No plano com IA, você terá 3 dias dedicados para testar completamente o agente de IA antes do site ir ao ar definitivamente. É um período exclusivo para ajustes e validação."
     },
     {
       question: "O que inclui a manutenção do agente?",

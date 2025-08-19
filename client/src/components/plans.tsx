@@ -5,36 +5,36 @@ export default function Plans() {
     {
       name: "Site Essencial",
       description: "Para advogados que querem o básico bem feito",
-      price: "R$ 500",
+      price: "R$ 600",
       priceType: "implantação",
-      monthly: "R$ 29.9",
+      monthly: "R$ 30",
       monthlyNote: "primeiro mês grátis",
       features: [
-        "Site de página única com seções Hero, Sobre o Escritório, Áreas de Atuação, Sobre o Advogado, Diferenciais, Depoimentos e Contato",
+        "Site baseado em template adaptado para seu escritório",
         "Botão WhatsApp integrado",
         "Design responsivo",
         "Código-fonte incluso",
         "Prévia em 48h"
       ],
-      paymentNote: "Pagamento: R$ 250 entrada + R$ 250 na entrega",
+      paymentNote: "Pagamento na entrega do site no ar",
       ctaText: "Contratar Site Essencial",
       popular: false
     },
     {
       name: "Site com IA no WhatsApp",
       description: "Atendimento automatizado 24/7",
-      price: "R$ 2.000",
+      price: "R$ 1.500",
       priceType: "implantação",
-      monthly: "R$ 200",
+      monthly: "R$ 150",
       monthlyNote: "primeiro mês grátis",
       features: [
         "Tudo que o plano Essencial oferece",
         "Agente de IA integrado ao WhatsApp",
         "Triagem e agendamento de consultas",
         "Atendimento 24/7",
-        "3 dias de testes dedicados"
+        "3 dias dedicados para testar o agente de IA"
       ],
-      paymentNote: "Pagamento: R$ 1.000 entrada + R$ 1.000 na entrega",
+      paymentNote: "Pagamento na entrega do site no ar",
       ctaText: "Contratar Site com IA",
       popular: true
     }
@@ -45,7 +45,7 @@ export default function Plans() {
     { feature: "Triagem & Agendamento", simple: false, ai: true },
     { feature: "Prévia", simple: "48h", ai: "72h" },
     { feature: "Testes dedicados", simple: false, ai: "3 dias" },
-    { feature: "Mensalidade", simple: "R$ 29.9", ai: "R$ 200" },
+    { feature: "Mensalidade", simple: "R$ 30", ai: "R$ 150" },
     { feature: "1º mês grátis", simple: true, ai: true },
     { feature: "Código fonte incluso", simple: true, ai: true }
   ];
@@ -58,7 +58,7 @@ export default function Plans() {
             Escolha o plano ideal para você <span className="text-legal-gold"></span>
           </h2>
           <p className="text-xl text-legal-text/80 max-w-3xl mx-auto">
-            Planos anuais com pagamento na entrega do site no ar.
+            Sites baseados em templates adaptados para seu escritório. Pagamento da implantação na entrega e mensalidade inicia após o primeiro mês.
           </p>
         </div>
         
@@ -131,8 +131,8 @@ export default function Plans() {
                 <thead>
                   <tr className="border-b border-legal-accent">
                     <th className="text-left py-3 px-4 text-legal-text">Recurso</th>
-                    <th className="text-center py-3 px-4 text-legal-text">Site Simples</th>
-                    <th className="text-center py-3 px-4 text-legal-text">Site c/ Agente IA</th>
+                    <th className="text-center py-3 px-4 text-legal-text">Site Essencial</th>
+                    <th className="text-center py-3 px-4 text-legal-text">Site c/ IA WhatsApp</th>
                   </tr>
                 </thead>
                 <tbody>

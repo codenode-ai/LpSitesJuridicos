@@ -22,12 +22,27 @@ Preferred communication style: Simple, everyday language.
 - FAQ section: Updated plan names and maintained relevant content
 - New Models section added with navigation link showing two demo lawyer websites
 
+**Template-Based Approach (August 2024)**:
+- Clarified that sites are built based on templates adapted for each client
+- Models renamed from gender-based to "Template 1" (darker palette) and "Template 2" (lighter palette)
+- Updated navigation from "Modelos" to "Templates"
+- Hero section clarifies template-based approach
+- Models section explains template adaptation process
+
+**Pricing Update (August 2024)**:
+- Site Essencial: R$600 setup + R$30/month (was R$500 + R$29.90)
+- Site com IA no WhatsApp: R$1.500 setup + R$150/month (was R$2.000 + R$200)
+- Payment terms: Setup fee paid on delivery, monthly fee starts after first month
+- Emphasized 3-day dedicated testing period for AI plan
+- Updated comparison table and FAQ with new pricing
+
 **New Components & Routes**:
 - Created Models component with links to demo sites
-- Added modelo-advogado page (criminal law specialization, masculine design)
-- Added modelo-advogada page (family/civil law specialization, feminine design)
-- Updated header navigation to include "Modelos" link
+- Added modelo-advogado page (criminal law specialization, Template 1 example)
+- Added modelo-advogada page (family/civil law specialization, Template 2 example)
+- Updated header navigation to include "Templates" link
 - Added routing for `/modelo-advogado` and `/modelo-advogada` paths
+- Enhanced FAQ with dedicated AI testing period explanation
 
 ## System Architecture
 

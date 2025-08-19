@@ -6,31 +6,31 @@ export default function Models() {
       <div className="container mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-merriweather font-bold mb-6 text-legal-text">
-            Veja nossos <span className="text-legal-gold">modelos</span>
+            Nossos <span className="text-legal-gold">Templates</span>
           </h2>
           <p className="text-xl text-legal-text/80 max-w-3xl mx-auto">
-            Visualize como seu site ficará pronto com nossos exemplos reais
+            Seu site será baseado em um dos templates abaixo, adaptado para seu escritório
           </p>
         </div>
         
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-          {/* Modelo Advogado */}
+          {/* Modelo 1 */}
           <div className="bg-legal-dark/50 p-8 rounded-xl border border-legal-accent hover:border-legal-gold transition-colors">
             <div className="bg-legal-secondary/50 w-full h-48 rounded-lg mb-6 flex items-center justify-center">
               <div className="text-center">
-                <div className="w-16 h-16 bg-legal-gold rounded-full mx-auto mb-4 flex items-center justify-center">
-                  <svg className="w-8 h-8 text-legal-dark" fill="currentColor" viewBox="0 0 20 20">
-                    <path d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z"/>
+                <div className="w-16 h-16 bg-legal-dark border-2 border-legal-gold rounded-full mx-auto mb-4 flex items-center justify-center">
+                  <svg className="w-8 h-8 text-legal-gold" fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
                   </svg>
                 </div>
-                <p className="text-legal-text/80">Preview do site masculino</p>
+                <p className="text-legal-text/80">Paleta de cores escura</p>
               </div>
             </div>
             <h3 className="text-2xl font-merriweather font-bold mb-4 text-legal-text">
-              Modelo Advogado
+              Template 1
             </h3>
             <p className="text-legal-text/80 mb-6">
-              Site profissional com design masculino, cores sóbrias e conteúdo direcionado para advogados
+              Design com paleta de cores mais escura, ideal para transmitir seriedade e profissionalismo
             </p>
             <a 
               href="/modelo-advogado"
@@ -43,23 +43,23 @@ export default function Models() {
             </a>
           </div>
 
-          {/* Modelo Advogada */}
+          {/* Modelo 2 */}
           <div className="bg-legal-dark/50 p-8 rounded-xl border border-legal-accent hover:border-legal-gold transition-colors">
             <div className="bg-legal-secondary/50 w-full h-48 rounded-lg mb-6 flex items-center justify-center">
               <div className="text-center">
                 <div className="w-16 h-16 bg-legal-gold rounded-full mx-auto mb-4 flex items-center justify-center">
                   <svg className="w-8 h-8 text-legal-dark" fill="currentColor" viewBox="0 0 20 20">
-                    <path d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z"/>
+                    <path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/>
                   </svg>
                 </div>
-                <p className="text-legal-text/80">Preview do site feminino</p>
+                <p className="text-legal-text/80">Paleta de cores clara</p>
               </div>
             </div>
             <h3 className="text-2xl font-merriweather font-bold mb-4 text-legal-text">
-              Modelo Advogada
+              Template 2
             </h3>
             <p className="text-legal-text/80 mb-6">
-              Site profissional com design feminino, cores elegantes e conteúdo direcionado para advogadas
+              Design com paleta de cores mais clara, transmitindo acolhimento e proximidade com clientes
             </p>
             <a 
               href="/modelo-advogada"
