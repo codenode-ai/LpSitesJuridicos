@@ -8,11 +8,11 @@ export default function Hero() {
       <div className="container mx-auto text-center">
         <div className="max-w-4xl mx-auto mt-[46px] mb-[46px]">
           <h1 className="text-4xl md:text-6xl font-merriweather font-bold mb-6 leading-tight text-legal-text">
-            Seu escritório de advocacia{" "}
-            <span className="text-legal-gold">ainda não tem um site?</span>
+            Seu escritório com Presença Digital{" "}
+            <span className="text-legal-gold">Profissional</span>
           </h1>
           <p className="text-xl md:text-2xl text-legal-text/80 mb-12 leading-relaxed">
-            Desenvolvemos sites modernos voltados para o setor jurídico, com Inteligência Artificial  no WhatsApp para automatizar o atendimento.
+            Criamos sites modernos para advogados e escritórios jurídicos, com design ético, conteúdo claro e contato imediato via WhatsApp.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button 

@@ -1,26 +1,26 @@
-import { Star, MessageCircle, Target, Clock } from "lucide-react";
+import { Shield, Eye, MessageCircle, Scale } from "lucide-react";
 
 export default function Benefits() {
   const benefits = [
     {
-      icon: <Star className="w-8 h-8" />,
-      title: "Design Moderno",
-      description: "Estética profissional com design sob medida para escritórios de advocacia."
+      icon: <Shield className="w-8 h-8" />,
+      title: "Credibilidade",
+      description: "Presença digital que reforça a imagem profissional"
+    },
+    {
+      icon: <Eye className="w-8 h-8" />,
+      title: "Clareza",
+      description: "Áreas de atuação apresentadas de forma objetiva"
     },
     {
       icon: <MessageCircle className="w-8 h-8" />,
-      title: "Atendimento 24/7 no WhatsApp",
-      description: "Inteligência Artificial no Whatsapp para automatizar o atendimento e o agendamento de consultas."
+      title: "Contato imediato",
+      description: "Botão de WhatsApp sempre visível para facilitar o primeiro contato"
     },
     {
-      icon: <Target className="w-8 h-8" />,
-      title: "Qualificação de contatos",
-      description: "Foco nos casos certos, menos tempo perdido com consultas inadequadas."
-    },
-    {
-      icon: <Clock className="w-8 h-8" />,
-      title: "Entrega Rápida",
-      description: "Seu site poderá estar no ar em até 5 dias úteis."
+      icon: <Scale className="w-8 h-8" />,
+      title: "Compliance",
+      description: "Estrutura alinhada às normas da OAB"
     }
   ];
 
@@ -29,10 +29,10 @@ export default function Benefits() {
       <div className="container mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-merriweather font-bold mb-6 text-legal-text">
-            Por que Escolher a <span className="text-legal-gold">CodeNode</span>?
+            Mais do que um site: credibilidade para o seu escritório. <span className="text-legal-gold"></span>
           </h2>
           <p className="text-xl text-legal-text/80 max-w-3xl mx-auto">
-            Transformamos a presença digital do seu escritório com tecnologia de ponta e design profissional.
+            Na advocacia, confiança é essencial. Um site profissional transmite seriedade e organiza as informações do seu escritório de forma clara e acessível, ajudando potenciais clientes a encontrarem o que precisam rapidamente.
           </p>
         </div>
         
