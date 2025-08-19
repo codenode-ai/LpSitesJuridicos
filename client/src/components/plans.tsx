@@ -55,10 +55,10 @@ export default function Plans() {
       <div className="container mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-merriweather font-bold mb-6 text-legal-text">
-            Planos e <span className="text-legal-gold">Preços</span>
+            Escolha o plano ideal para o seu escritório <span className="text-legal-gold"></span>
           </h2>
           <p className="text-xl text-legal-text/80 max-w-3xl mx-auto">
-            Escolha o plano ideal para o seu escritório. Primeiro mês grátis em ambos os planos.
+            Planos anuais com pagamento na entrega do site no ar.
           </p>
         </div>
         
