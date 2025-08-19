@@ -10,6 +10,14 @@ Preferred communication style: Simple, everyday language.
 
 ## Recent Changes (August 2024)
 
+**Template Links Update (August 2024)**:
+- Updated template buttons to link to external Replit apps instead of internal demo pages
+- Template 1 (darker palette): https://template-site-simples-01-contato526.replit.app
+- Template 2 (lighter palette): https://template-site-adv-02-contato526.replit.app
+- Changed button text from "Ver Exemplo" to "Ver Modelo" for clarity
+- All template links open in new tabs for better user experience
+- Updated WhatsApp contact number to 5534996670069 across all components
+
 **Major Content Update - Target Audience Shift**:
 - Updated target audience from law firms to autonomous lawyers without existing websites
 - Hero section: Changed title to "Seu primeiro site jurídico profissional"  
@@ -37,11 +45,11 @@ Preferred communication style: Simple, everyday language.
 - Updated comparison table and FAQ with new pricing
 
 **New Components & Routes**:
-- Created Models component with links to demo sites
-- Added modelo-advogado page (criminal law specialization, Template 1 example)
-- Added modelo-advogada page (family/civil law specialization, Template 2 example)
-- Updated header navigation to include "Templates" link
-- Added routing for `/modelo-advogado` and `/modelo-advogada` paths
+- Created Models component with external template links
+- Template 1 links to: https://template-site-simples-01-contato526.replit.app (darker palette)
+- Template 2 links to: https://template-site-adv-02-contato526.replit.app (lighter palette)
+- Both templates open in new tabs with target="_blank"
+- Updated header navigation to include "Templates" section
 - Enhanced FAQ with dedicated AI testing period explanation
 
 ## System Architecture
