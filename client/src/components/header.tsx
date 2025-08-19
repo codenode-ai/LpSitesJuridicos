@@ -53,7 +53,7 @@ export default function Header() {
           {/* Social and CTA */}
           <div className="flex items-center space-x-4">
             <a 
-              href="https://wa.me/554891974158" 
+              href="https://wa.me/5534996670069" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hidden md:block bg-legal-gold hover:bg-legal-gold-hover text-legal-dark px-4 py-2 rounded-lg font-medium transition-colors"
