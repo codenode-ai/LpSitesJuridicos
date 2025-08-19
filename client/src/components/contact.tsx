@@ -68,7 +68,7 @@ export default function Contact() {
             Entre em <span className="text-legal-gold">Contato</span>
           </h2>
           <p className="text-xl text-legal-text/80 max-w-3xl mx-auto">
-            Pronto para modernizar seu escritório? Fale conosco agora mesmo.
+            Pronto para criar seu primeiro site? Fale conosco agora mesmo.
           </p>
         </div>
         

@@ -3,35 +3,35 @@ import { Check, X, Info } from "lucide-react";
 export default function Plans() {
   const plans = [
     {
-      name: "Site Simples",
-      description: "Presença digital profissional com botão WhatsApp",
+      name: "Site Essencial",
+      description: "Para advogados que querem o básico bem feito",
       price: "R$ 500",
       priceType: "implantação",
       monthly: "R$ 29.9",
       monthlyNote: "primeiro mês grátis",
       features: [
+        "Site de página única com seções Hero, Sobre o Escritório, Áreas de Atuação, Sobre o Advogado, Diferenciais, Depoimentos e Contato",
         "Botão WhatsApp integrado",
-        "Design profissional jurídico", 
-        "Prévia em 48h",
-        "Código fonte incluso",
-        "Responsivo (mobile)"
+        "Design responsivo",
+        "Código-fonte incluso",
+        "Prévia em 48h"
       ],
       paymentNote: "Pagamento: R$ 250 entrada + R$ 250 na entrega",
-      ctaText: "Contratar Site Simples",
+      ctaText: "Contratar Site Essencial",
       popular: false
     },
     {
-      name: "Site com Agente IA",
-      description: "Atendimento automatizado 24/7 no WhatsApp",
+      name: "Site com IA no WhatsApp",
+      description: "Atendimento automatizado 24/7",
       price: "R$ 2.000",
       priceType: "implantação",
       monthly: "R$ 200",
       monthlyNote: "primeiro mês grátis",
       features: [
-        "Tudo do plano anterior",
-        "Agente IA para WhatsApp",
+        "Tudo que o plano Essencial oferece",
+        "Agente de IA integrado ao WhatsApp",
+        "Triagem e agendamento de consultas",
         "Atendimento 24/7",
-        "Triagem & Agendamento",
         "3 dias de testes dedicados"
       ],
       paymentNote: "Pagamento: R$ 1.000 entrada + R$ 1.000 na entrega",
@@ -55,7 +55,7 @@ export default function Plans() {
       <div className="container mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-merriweather font-bold mb-6 text-legal-text">
-            Escolha o plano ideal para o seu escritório <span className="text-legal-gold"></span>
+            Escolha o plano ideal para você <span className="text-legal-gold"></span>
           </h2>
           <p className="text-xl text-legal-text/80 max-w-3xl mx-auto">
             Planos anuais com pagamento na entrega do site no ar.

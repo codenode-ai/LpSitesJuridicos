@@ -1,0 +1,130 @@
+1. Atualizar textos da Home (Hero)
+
+Localize no arquivo principal (ex.: index.html ou o componente React correspondente) a seção hero onde aparecem o título, subtítulo e botões de ação.
+
+Substitua o título “Seu escritório com Presença Digital Profissional” por “Seu primeiro site jurídico profissional”.
+
+Substitua o subtítulo “Criamos sites modernos para advogados e escritórios jurídicos…” por:
+
+“Criamos sites modernos para advogados autônomos que ainda não possuem site, com design ético, conteúdo claro e contato imediato via WhatsApp.”
+
+Mantenha os botões “Ver Planos” e “Falar no WhatsApp”.
+
+A motivação dessa alteração é deixar claro que o público‑alvo agora são advogados autônomos que ainda não têm presença digital
+codenode.com.br
+.
+
+2. Seção de Benefícios
+
+Localize a seção de cards de benefícios. Mantenha os quatro cards, mas atualize os textos para falar com profissionais individuais:
+
+Credibilidade: “Presença digital que reforça sua imagem profissional”.
+
+Clareza: “Seus serviços apresentados de forma clara e objetiva”.
+
+Contato imediato: “Botão de WhatsApp sempre visível para facilitar o primeiro contato”.
+
+Compliance: “Estrutura alinhada às normas da OAB”.
+
+Esses benefícios refletem as vantagens listadas na versão atual do site
+codenode.com.br
+, mas com foco no advogado autônomo.
+
+3. Seção “Como Funciona”
+
+Os quatro passos atuais (Briefing inicial, Protótipo Visual, Desenvolvimento e Entrega do Site) podem ser mantidos, mas a copy deve refletir que o briefing e o desenvolvimento ocorrerão diretamente com um advogado autônomo. Por exemplo:
+
+Briefing inicial: “Uma conversa inicial para entender sua atuação e necessidades.”
+
+Protótipo Visual: “Apresentamos a estrutura e o layout inicial para sua avaliação.”
+
+Desenvolvimento: “Construção da versão final com design e funcionalidades aprovados por você.”
+
+Entrega do Site: “Publicação do site no domínio fornecido pelo cliente.”
+
+4. Seção de Planos
+
+Localize a seção de planos. Renomeie “Site Simples” para “Site Essencial” e atualize a descrição:
+
+Site Essencial – para advogados que querem o básico bem feito:
+Inclua no texto que o pacote oferece um site de página única com seções Hero, Sobre o Escritório, Áreas de Atuação, Sobre o Advogado, Diferenciais, Depoimentos de Clientes e Contato. Mantenha as vantagens listadas (botão WhatsApp, design responsivo, código-fonte incluso, prévia em 48h)
+codenode.com.br
+.
+
+Renomeie “Site com Agente IA” para “Site com IA no WhatsApp” e atualize a descrição:
+
+Site com IA no WhatsApp – atendimento automatizado 24/7:
+Destaque que além de tudo que o plano Essencial oferece, este plano inclui um agente de IA integrado ao WhatsApp que faz triagem e agendamento de consultas. Mantenha as informações de pagamento e os itens “Atendimento 24/7”, “Triagem & Agendamento” e “3 dias de testes dedicados”
+codenode.com.br
+.
+
+Atualize a tabela comparativa de recursos (se houver) para refletir os novos nomes e adicione as novas funcionalidades onde apropriado.
+
+5. Nova seção: Modelos de Site
+
+Em index.html (ou equivalente), crie uma nova seção após “Planos” chamada “Modelos de Site”.
+
+Estrutura sugerida:
+
+Título: “Veja nossos modelos”.
+
+Dois cards ou colunas lado a lado, cada um com uma imagem ilustrativa (pode ser um placeholder ou imagem de escritório de advocacia) e um botão/link.
+
+Modelo Advogado: link para /modelo_advogado.html.
+
+Modelo Advogada: link para /modelo_advogada.html.
+
+No menu de navegação, adicione um item “Modelos” que faça rolar até essa nova seção.
+
+Crie dois novos arquivos de página (ou rotas) no projeto:
+
+modelo_advogado.html: construa um exemplo de site simples com as seções Hero, Sobre, Áreas de Atuação, Sobre o Advogado, Diferenciais, Depoimentos e Contato (texto fictício).
+
+modelo_advogada.html: mesma estrutura, mas adaptando o texto e cores para uma advogada.
+
+Esses exemplos permitirão que o usuário visualize o resultado final antes de contratar.
+
+6. Seção Sobre
+
+Atualize a copy da seção “Sobre a CodeNode” para deixar claro que a empresa agora se dedica a introduzir advogados autônomos à era digital, automatizando o atendimento e qualificando leads
+codenode.com.br
+. Exemplo de texto:
+
+“Introduzimos advogados autônomos na era da IA, começando pela automatização do atendimento, triagem e agendamento de consultas, para que você invista tempo apenas nos casos certos.”
+
+7. Seção FAQ
+
+A seção de perguntas frequentes pode ser mantida, pois as dúvidas continuam pertinentes: prazos de entrega, quando a mensalidade começa, diferença entre os planos e se o código pertence ao cliente
+codenode.com.br
+codenode.com.br
+. Apenas ajuste qualquer menção a “escritório” para “advogado”.
+
+8. Seção Contato
+
+No formulário de contato, altere o subtítulo para algo como: “Pronto para criar seu primeiro site? Fale conosco agora mesmo.” Mantenha os campos e as informações de WhatsApp e e‑mail
+codenode.com.br
+.
+
+9. Rodapé
+
+Mantenha o rodapé atual. Apenas revise se há necessidade de ajustar a tagline para refletir o foco em advogados autônomos.
+
+10. Considerações de Estilo e Responsividade
+
+Mantenha o esquema de cores (fundo escuro e detalhes dourados) para preservar a identidade visual.
+
+Certifique‑se de que o novo menu e a nova seção “Modelos de Site” funcionem bem em dispositivos móveis.
+
+Verifique se todas as rotas/páginas criadas (modelo_advogado.html e modelo_advogada.html) estão devidamente linkadas e seguem o mesmo design responsivo.
+
+Resumo das Principais Mudanças
+
+Público-alvo: mudar de escritórios para advogados autônomos.
+
+Copy: atualizar textos em todas as seções com linguagem direcionada a profissionais individuais.
+
+Produtos: renomear os planos e deixar explícitas as seções do site Essencial e os recursos de IA no WhatsApp.
+
+Nova seção “Modelos”: fornecer links para dois sites modelo.
+
+Navegação: adicionar link para os modelos no menu.

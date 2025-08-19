@@ -2,11 +2,32 @@
 
 ## Overview
 
-This is a modern single-page website built for CodeNode, a company that creates professional websites specifically for law firms. The application showcases two service plans: a simple website with WhatsApp integration and an advanced version featuring AI-powered automated customer service. The site features a dark, professional theme with gold accents designed specifically for the legal industry, emphasizing trust and professionalism.
+This is a modern single-page website built for CodeNode.AI, a company that creates professional websites specifically for autonomous lawyers who don't yet have a digital presence. The application showcases two service plans: "Site Essencial" (basic professional website) and "Site com IA no WhatsApp" (AI-powered automated customer service). The site features a dark, professional theme with gold accents designed specifically for the legal industry, emphasizing trust and professionalism. The target audience has been refined to focus on individual autonomous lawyers rather than law firms.
 
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
+
+## Recent Changes (August 2024)
+
+**Major Content Update - Target Audience Shift**:
+- Updated target audience from law firms to autonomous lawyers without existing websites
+- Hero section: Changed title to "Seu primeiro site jurídico profissional"  
+- Updated subtitle to focus on autonomous lawyers who don't yet have sites
+- Benefits section: Updated descriptions to use "sua" instead of organizational language
+- Plans section: Renamed "Site Simples" to "Site Essencial" and "Site com Agente IA" to "Site com IA no WhatsApp"
+- How It Works: Updated copy to reflect individual lawyer focus
+- About section: Changed from law firms to "advogados autônomos"
+- Contact section: Updated call-to-action to "criar seu primeiro site"
+- FAQ section: Updated plan names and maintained relevant content
+- New Models section added with navigation link showing two demo lawyer websites
+
+**New Components & Routes**:
+- Created Models component with links to demo sites
+- Added modelo-advogado page (criminal law specialization, masculine design)
+- Added modelo-advogada page (family/civil law specialization, feminine design)
+- Updated header navigation to include "Modelos" link
+- Added routing for `/modelo-advogado` and `/modelo-advogada` paths
 
 ## System Architecture
 
@@ -29,10 +50,11 @@ The application implements a specialized legal industry design system:
 
 ### Component Architecture
 The frontend follows a modular component structure:
-- **Page Components**: Single home page with route handling for 404
-- **Section Components**: Modular sections (Hero, Benefits, Plans, etc.) for easy maintenance
+- **Page Components**: Home page, two model demo pages (modelo-advogado, modelo-advogada), and 404 handler
+- **Section Components**: Modular sections (Hero, Benefits, Plans, Models, etc.) for easy maintenance
 - **UI Components**: Reusable design system components in `/components/ui/`
 - **Custom Hooks**: Smooth scrolling navigation and mobile detection utilities
+- **Demo Pages**: Complete lawyer website examples showing different specializations and target audiences
 
 ### Backend Architecture
 Minimal Express.js backend setup:

@@ -8,7 +8,7 @@ export default function About() {
           </h2>
           <div className="bg-legal-dark/50 p-8 rounded-xl border border-legal-accent">
             <p className="text-xl leading-relaxed text-legal-text/90">
-              Introduzimos escritórios de advocacia na era da IA, começando pela automatização do atendimento, triagem e agendamento de consultas. Nosso foco é qualificar contatos para que seu escritório invista tempo apenas nos casos certos.
+              Introduzimos advogados autônomos na era da IA, começando pela automatização do atendimento, triagem e agendamento de consultas, para que você invista tempo apenas nos casos certos.
             </p>
             <div className="mt-8 grid md:grid-cols-3 gap-6">
               <div className="text-center">

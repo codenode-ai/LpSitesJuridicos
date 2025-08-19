@@ -36,6 +36,9 @@ export default function Header() {
             <button onClick={() => handleNavClick('planos')} className="text-legal-text hover:text-legal-gold transition-colors">
               Planos
             </button>
+            <button onClick={() => handleNavClick('modelos')} className="text-legal-text hover:text-legal-gold transition-colors">
+              Modelos
+            </button>
             <button onClick={() => handleNavClick('sobre')} className="text-legal-text hover:text-legal-gold transition-colors">
               Sobre
             </button>
@@ -85,6 +88,9 @@ export default function Header() {
               </button>
               <button onClick={() => handleNavClick('planos')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
                 Planos
+              </button>
+              <button onClick={() => handleNavClick('modelos')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
+                Modelos
               </button>
               <button onClick={() => handleNavClick('sobre')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
                 Sobre

@@ -8,11 +8,11 @@ export default function FAQ() {
   const faqs = [
     {
       question: "Quando recebo a prévia?",
-      answer: "Para o Site Simples, a prévia é entregue em 48h úteis. Para o Site com Agente IA, em 72h úteis após confirmação do pagamento da entrada."
+      answer: "Para o Site Essencial, a prévia é entregue em 48h úteis. Para o Site com IA no WhatsApp, em 72h úteis após confirmação do pagamento da entrada."
     },
     {
       question: "Quando o site vai ao ar?",
-      answer: "O Site Simples vai ao ar 48h após aprovação da prévia. O Site com Agente IA vai ao ar após 3 dias de testes e aprovação final."
+      answer: "O Site Essencial vai ao ar 48h após aprovação da prévia. O Site com IA no WhatsApp vai ao ar após 3 dias de testes e aprovação final."
     },
     {
       question: "Preciso ter domínio?",
@@ -24,7 +24,7 @@ export default function FAQ() {
     },
     {
       question: "Qual a diferença dos planos?",
-      answer: "O Site Simples inclui apenas o botão WhatsApp. O Site com Agente IA inclui atendimento automatizado 24/7, triagem de leads e agendamento de consultas."
+      answer: "O Site Essencial inclui apenas o botão WhatsApp. O Site com IA no WhatsApp inclui atendimento automatizado 24/7, triagem de leads e agendamento de consultas."
     },
     {
       question: "O que inclui a manutenção do agente?",
