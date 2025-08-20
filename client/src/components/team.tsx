@@ -2,7 +2,7 @@ export default function Team() {
   const teamMembers = [
     {
       name: "Daniel",
-      title: "Fundador & Estrategista de Inovação em IA",
+      title: "Estrategista de Inovação",
       bio: "Engenheiro e empreendedor, apaixonado por tecnologia e inovação. É quem desenha a visão estratégica da CodeNode para levar a IA de forma prática e acessível às empresas.",
       avatar: "/img/team-daniel.jpg",
       whatsapp: "{{WHATSAPP_DANIEL}}",
@@ -10,7 +10,7 @@ export default function Team() {
     },
     {
       name: "Gabriela", 
-      title: "Cofundadora & Engenheira de Implementação em IA",
+      title: "Engenheira de Implementação",
       bio: "Engenheira que coloca a mão no código e transforma ideias em soluções reais. Garante que nossos agentes de IA funcionem na prática, com qualidade e eficiência.",
       avatar: "/img/team-gabriela.jpg",
       whatsapp: "{{WHATSAPP_GABRIELA}}",
@@ -42,11 +42,11 @@ export default function Team() {
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-8">
           {teamMembers.map((member, index) => (
             <div key={index} className="bg-legal-dark/50 p-8 rounded-xl border border-legal-accent hover:border-legal-gold transition-colors text-center">
-              <div className="mb-6">
+              <div className="mb-4">
                 <img 
                   src={member.avatar}
                   alt={`Avatar ${member.name}`}
-                  className="w-24 h-24 rounded-full mx-auto object-cover border-2 border-legal-gold"
+                  className="w-32 h-32 rounded-full mx-auto object-cover border-3 border-legal-gold"
                 />
               </div>
               
