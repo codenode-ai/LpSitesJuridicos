@@ -22,7 +22,7 @@ export default function Hero() {
               Ver Planos
             </button>
             <a 
-              href="https://wa.me/5534996670069" 
+              href="https://wa.me/5548991974158" 
               target="_blank" 
               rel="noopener noreferrer"
               className="border-2 border-legal-gold text-legal-gold hover:bg-legal-gold hover:text-legal-dark px-8 py-4 rounded-lg font-semibold text-lg transition-colors"

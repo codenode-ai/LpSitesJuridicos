@@ -34,7 +34,7 @@ export default function ModeloAdvogada() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a 
-                href="https://wa.me/5534996670069" 
+                href="https://wa.me/5548991974158" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-legal-gold hover:bg-legal-gold-hover text-legal-dark px-8 py-4 rounded-lg font-semibold text-lg transition-colors"
@@ -217,7 +217,7 @@ export default function ModeloAdvogada() {
                   <Phone className="w-8 h-8 text-legal-dark" />
                 </div>
                 <h3 className="text-lg font-semibold mb-2 text-legal-text">WhatsApp</h3>
-                <p className="text-legal-text/80">(34) 9 9667-0069</p>
+                <p className="text-legal-text/80">(48) 9 9197-4158</p>
               </div>
               <div className="text-center">
                 <div className="bg-legal-gold w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -237,7 +237,7 @@ export default function ModeloAdvogada() {
             
             <div className="text-center">
               <a 
-                href="https://wa.me/5534996670069" 
+                href="https://wa.me/5548991974158" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-legal-gold hover:bg-legal-gold-hover text-legal-dark px-8 py-4 rounded-lg font-semibold text-lg transition-colors inline-flex items-center"

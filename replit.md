@@ -25,7 +25,7 @@ Preferred communication style: Simple, everyday language.
 - External template link: https://template-site-simples-01-contato526.replit.app
 - Navigation updated from "Templates" to "Template" in header
 - Changed button text to "Ver Template" for clarity
-- Updated WhatsApp contact number to 5534996670069 across all components
+- Updated WhatsApp contact number to 5548991974158 across all components
 
 **Major Content Update - Target Audience Shift**:
 - Updated target audience from law firms to autonomous lawyers without existing websites
