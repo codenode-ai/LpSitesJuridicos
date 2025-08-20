@@ -18,6 +18,7 @@ export default function Plans() {
       ],
       paymentNote: "Pagamento na entrega do site no ar",
       ctaText: "Contratar Site Essencial",
+      whatsappMessage: "Quero um Site Essencial",
       popular: false
     },
     {
@@ -36,6 +37,7 @@ export default function Plans() {
       ],
       paymentNote: "Pagamento na entrega do site no ar",
       ctaText: "Contratar Site com IA",
+      whatsappMessage: "Quero um Site com IA",
       popular: true
     }
   ];
@@ -108,7 +110,7 @@ export default function Plans() {
                   {plan.paymentNote}
                 </div>
                 <a 
-                  href="https://wa.me/5548991974158" 
+                  href={`https://wa.me/5548991974158?text=${encodeURIComponent(plan.whatsappMessage)}`}
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="block bg-legal-gold hover:bg-legal-gold-hover text-legal-dark px-6 py-3 rounded-lg font-semibold transition-colors"
