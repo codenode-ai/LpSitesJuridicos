@@ -41,7 +41,7 @@ export default function Models() {
               Template 2
             </h3>
             <p className="text-legal-text/80 mb-6">
-              Design com paleta de cores mais clara, transmitindo acolhimento e proximidade com clientes
+              Design com paleta de cores mais clara, transmitindo proximidade com clientes
             </p>
             <a 
               href="https://template-site-adv-02-contato526.replit.app"
