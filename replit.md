@@ -10,12 +10,13 @@ Preferred communication style: Simple, everyday language.
 
 ## Recent Changes (August 2024)
 
-**Template Links Update (August 2024)**:
-- Updated template buttons to link to external Replit apps instead of internal demo pages
-- Template 1 (darker palette): https://template-site-simples-01-contato526.replit.app
-- Template 2 (lighter palette): https://template-site-adv-02-contato526.replit.app
-- Changed button text from "Ver Exemplo" to "Ver Modelo" for clarity
-- All template links open in new tabs for better user experience
+**Template Simplification (August 2024)**:
+- Simplified from two templates to single template approach
+- Section renamed from "Nossos Templates" to "Nosso Template"
+- Single template card centered with professional dark theme
+- External template link: https://template-site-simples-01-contato526.replit.app
+- Navigation updated from "Templates" to "Template" in header
+- Changed button text to "Ver Template" for clarity
 - Updated WhatsApp contact number to 5534996670069 across all components
 
 **Major Content Update - Target Audience Shift**:
@@ -31,11 +32,11 @@ Preferred communication style: Simple, everyday language.
 - New Models section added with navigation link showing two demo lawyer websites
 
 **Template-Based Approach (August 2024)**:
-- Clarified that sites are built based on templates adapted for each client
-- Models renamed from gender-based to "Template 1" (darker palette) and "Template 2" (lighter palette)
-- Updated navigation from "Modelos" to "Templates"
+- Clarified that sites are built based on a single professional template adapted for each client
+- Simplified from dual template approach to single "Template Profissional"
+- Updated navigation from "Modelos" to "Template"
 - Hero section clarifies template-based approach
-- Models section explains template adaptation process
+- Template section explains adaptation process for individual law practices
 
 **Pricing Update (August 2024)**:
 - Site Essencial: R$600 setup + R$30/month (was R$500 + R$29.90)
@@ -45,11 +46,11 @@ Preferred communication style: Simple, everyday language.
 - Updated comparison table and FAQ with new pricing
 
 **New Components & Routes**:
-- Created Models component with external template links
-- Template 1 links to: https://template-site-simples-01-contato526.replit.app (darker palette)
-- Template 2 links to: https://template-site-adv-02-contato526.replit.app (lighter palette)
-- Both templates open in new tabs with target="_blank"
-- Updated header navigation to include "Templates" section
+- Created Models component with single external template link
+- Template Profissional links to: https://template-site-simples-01-contato526.replit.app
+- Template opens in new tab with target="_blank"
+- Updated header navigation to include "Template" section
+- Simplified layout with centered single template card
 - Enhanced FAQ with dedicated AI testing period explanation
 
 ## System Architecture
