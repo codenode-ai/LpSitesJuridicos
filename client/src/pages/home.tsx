@@ -6,6 +6,7 @@ import AIWhatsApp from "../components/ai-whatsapp";
 import Plans from "../components/plans";
 import Models from "../components/models";
 import About from "../components/about";
+import Team from "../components/team";
 import FAQ from "../components/faq";
 import Contact from "../components/contact";
 import Footer from "../components/footer";
@@ -22,6 +23,7 @@ export default function Home() {
       <Plans />
       <Models />
       <About />
+      <Team />
       <FAQ />
       <Contact />
       <Footer />

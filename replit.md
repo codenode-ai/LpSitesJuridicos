@@ -28,6 +28,9 @@ Preferred communication style: Simple, everyday language.
 - Updated WhatsApp contact number to 5548991974158 across all components
 - Added CodeNode yellow logo favicon (500x500) copied to /client/public/favicon.png for proper web access
 - Added specific WhatsApp messages for plan buttons: "Quero um Site Essencial" and "Quero um Site com IA"
+- Created new "Nossa Equipe" section with Daniel, Gabriela, and Maria (AI Agent) team member cards
+- Added team navigation link in header menu between "Sobre" and "FAQ"
+- Team avatars stored in /client/public/img/ directory
 
 **Major Content Update - Target Audience Shift**:
 - Updated target audience from law firms to autonomous lawyers without existing websites
