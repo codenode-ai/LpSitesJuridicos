@@ -2,6 +2,7 @@ import Header from "../components/header";
 import Hero from "../components/hero";
 import Benefits from "../components/benefits";
 import HowItWorks from "../components/how-it-works";
+import AIWhatsApp from "../components/ai-whatsapp";
 import Plans from "../components/plans";
 import Models from "../components/models";
 import About from "../components/about";
@@ -17,6 +18,7 @@ export default function Home() {
       <Hero />
       <Benefits />
       <HowItWorks />
+      <AIWhatsApp />
       <Plans />
       <Models />
       <About />

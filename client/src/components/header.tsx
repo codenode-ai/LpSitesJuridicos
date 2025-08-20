@@ -33,6 +33,9 @@ export default function Header() {
             <button onClick={() => handleNavClick('como-funciona')} className="text-legal-text hover:text-legal-gold transition-colors">
               Como Funciona
             </button>
+            <button onClick={() => handleNavClick('ia-whatsapp')} className="text-legal-text hover:text-legal-gold transition-colors">
+              IA no WhatsApp
+            </button>
             <button onClick={() => handleNavClick('planos')} className="text-legal-text hover:text-legal-gold transition-colors">
               Planos
             </button>
@@ -85,6 +88,9 @@ export default function Header() {
               </button>
               <button onClick={() => handleNavClick('como-funciona')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
                 Como Funciona
+              </button>
+              <button onClick={() => handleNavClick('ia-whatsapp')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
+                IA no WhatsApp
               </button>
               <button onClick={() => handleNavClick('planos')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
                 Planos

@@ -23,7 +23,7 @@ export default function Plans() {
     {
       name: "Site com IA no WhatsApp",
       description: "Atendimento automatizado 24/7",
-      price: "R$ 1.500",
+      price: "R$ 2.000",
       priceType: "implantação",
       monthly: "R$ 150",
       monthlyNote: "primeiro mês grátis",

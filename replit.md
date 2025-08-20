@@ -10,6 +10,14 @@ Preferred communication style: Simple, everyday language.
 
 ## Recent Changes (August 2024)
 
+**AI WhatsApp Section Added (August 2024)**:
+- Added dedicated section explaining AI WhatsApp functionality before Plans section
+- Highlights AI assistant as 24/7 digital secretary for law practices
+- Features automatic client screening, lead qualification, and appointment scheduling
+- Includes quantified benefits (300% lead increase, 80% time reduction)
+- Added navigation link "IA no WhatsApp" to header menu
+- Section emphasizes 3-day testing period for AI configuration
+
 **Template Simplification (August 2024)**:
 - Simplified from two templates to single template approach
 - Section renamed from "Nossos Templates" to "Nosso Template"
