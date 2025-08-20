@@ -26,7 +26,7 @@ Preferred communication style: Simple, everyday language.
 - Navigation updated from "Templates" to "Template" in header
 - Changed button text to "Ver Template" for clarity
 - Updated WhatsApp contact number to 5548991974158 across all components
-- Added CodeNode yellow logo favicon (500x500) with multiple sizes for cross-device compatibility
+- Added CodeNode yellow logo favicon (500x500) copied to /client/public/favicon.png for proper web access
 
 **Major Content Update - Target Audience Shift**:
 - Updated target audience from law firms to autonomous lawyers without existing websites
