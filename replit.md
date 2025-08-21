@@ -32,6 +32,7 @@ Preferred communication style: Simple, everyday language.
 - Added team navigation link in header menu between "Sobre" and "FAQ"
 - Team avatars stored in /client/public/img/ directory with larger size (w-32 h-32) for better photo prominence
 - Adjusted header navigation spacing from space-x-8 to space-x-10 for better visual separation
+- Removed navigation items (Início, Contato, Template, FAQ) to simplify header and improve spacing
 
 **Major Content Update - Target Audience Shift**:
 - Updated target audience from law firms to autonomous lawyers without existing websites

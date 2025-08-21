@@ -24,9 +24,6 @@ export default function Header() {
           
           {/* Desktop Navigation */}
           <div className="hidden lg:flex items-center space-x-10">
-            <button onClick={() => handleNavClick('inicio')} className="text-legal-text hover:text-legal-gold transition-colors">
-              Início
-            </button>
             <button onClick={() => handleNavClick('beneficios')} className="text-legal-text hover:text-legal-gold transition-colors">
               Benefícios
             </button>
@@ -39,20 +36,11 @@ export default function Header() {
             <button onClick={() => handleNavClick('planos')} className="text-legal-text hover:text-legal-gold transition-colors">
               Planos
             </button>
-            <button onClick={() => handleNavClick('modelos')} className="text-legal-text hover:text-legal-gold transition-colors">
-              Template
-            </button>
             <button onClick={() => handleNavClick('sobre')} className="text-legal-text hover:text-legal-gold transition-colors">
               Sobre
             </button>
             <button onClick={() => handleNavClick('equipe')} className="text-legal-text hover:text-legal-gold transition-colors">
               Equipe
-            </button>
-            <button onClick={() => handleNavClick('faq')} className="text-legal-text hover:text-legal-gold transition-colors">
-              FAQ
-            </button>
-            <button onClick={() => handleNavClick('contato')} className="text-legal-text hover:text-legal-gold transition-colors">
-              Contato
             </button>
           </div>
           
@@ -83,9 +71,6 @@ export default function Header() {
         {isMenuOpen && (
           <div className="lg:hidden mt-4 pb-4 border-t border-legal-accent">
             <div className="flex flex-col space-y-4 mt-4">
-              <button onClick={() => handleNavClick('inicio')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
-                Início
-              </button>
               <button onClick={() => handleNavClick('beneficios')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
                 Benefícios
               </button>
@@ -98,20 +83,11 @@ export default function Header() {
               <button onClick={() => handleNavClick('planos')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
                 Planos
               </button>
-              <button onClick={() => handleNavClick('modelos')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
-                Template
-              </button>
               <button onClick={() => handleNavClick('sobre')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
                 Sobre
               </button>
               <button onClick={() => handleNavClick('equipe')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
                 Equipe
-              </button>
-              <button onClick={() => handleNavClick('faq')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
-                FAQ
-              </button>
-              <button onClick={() => handleNavClick('contato')} className="text-left text-legal-text hover:text-legal-gold transition-colors">
-                Contato
               </button>
             </div>
           </div>
