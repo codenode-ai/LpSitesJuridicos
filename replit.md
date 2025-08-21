@@ -31,6 +31,7 @@ Preferred communication style: Simple, everyday language.
 - Created new "Nossa Equipe" section with Daniel (Estrategista de Inovação), Gabriela (Engenheira de Implementação), and Maria (AI Agent) team member cards
 - Added team navigation link in header menu between "Sobre" and "FAQ"
 - Team avatars stored in /client/public/img/ directory with larger size (w-32 h-32) for better photo prominence
+- Adjusted header navigation spacing from space-x-8 to space-x-10 for better visual separation
 
 **Major Content Update - Target Audience Shift**:
 - Updated target audience from law firms to autonomous lawyers without existing websites

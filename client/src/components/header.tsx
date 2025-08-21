@@ -23,7 +23,7 @@ export default function Header() {
           </div>
           
           {/* Desktop Navigation */}
-          <div className="hidden lg:flex items-center space-x-8">
+          <div className="hidden lg:flex items-center space-x-10">
             <button onClick={() => handleNavClick('inicio')} className="text-legal-text hover:text-legal-gold transition-colors">
               Início
             </button>
