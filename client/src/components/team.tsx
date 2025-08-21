@@ -5,7 +5,7 @@ export default function Team() {
       title: "Estrategista de Inovação",
       bio: "Engenheiro e empreendedor, apaixonado por tecnologia e inovação. É quem desenha a visão estratégica da CodeNode para levar a IA de forma prática e acessível às empresas.",
       avatar: "/img/team-daniel.jpg",
-      whatsapp: "{{WHATSAPP_DANIEL}}",
+      whatsapp: "5534996670069",
       buttonText: "Falar com Daniel no WhatsApp"
     },
     {
@@ -13,7 +13,7 @@ export default function Team() {
       title: "Engenheira de Implementação",
       bio: "Engenheira que coloca a mão no código e transforma ideias em soluções reais. Garante que nossos agentes de IA funcionem na prática, com qualidade e eficiência.",
       avatar: "/img/team-gabriela.jpg",
-      whatsapp: "{{WHATSAPP_GABRIELA}}",
+      whatsapp: "5534999622165",
       buttonText: "Falar com Gabriela no WhatsApp"
     },
     {
@@ -21,7 +21,7 @@ export default function Team() {
       title: "Agente de Atendimento Inteligente",
       bio: "Nossa especialista virtual em atendimento. Sempre disponível para conversar, tirar dúvidas e mostrar, na prática, como a IA pode transformar o atendimento de uma empresa.",
       avatar: "/img/team-maria.jpg",
-      whatsapp: "{{WHATSAPP_MARIA}}",
+      whatsapp: "5548991974158",
       buttonText: "Testar a Maria no WhatsApp",
       isAI: true
     }

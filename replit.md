@@ -33,6 +33,7 @@ Preferred communication style: Simple, everyday language.
 - Team avatars stored in /client/public/img/ directory with larger size (w-32 h-32) for better photo prominence
 - Adjusted header navigation spacing from space-x-8 to space-x-10 for better visual separation
 - Removed navigation items (Início, Contato, Template, FAQ) to simplify header and improve spacing
+- Added individual WhatsApp contact numbers for team members: Daniel (5534996670069), Gabriela (5534999622165), Maria (5548991974158)
 
 **Major Content Update - Target Audience Shift**:
 - Updated target audience from law firms to autonomous lawyers without existing websites
