@@ -73,7 +73,7 @@ export default function AIWhatsApp() {
             <div className="space-y-4">
               <div className="flex items-center">
                 <CheckCircle className="w-5 h-5 text-legal-gold mr-3 flex-shrink-0" />
-                <span className="text-legal-text/90">Aumento de 300% na captura de leads</span>
+                <span className="text-legal-text/90">Aumento de 60% na captura de leads</span>
               </div>
               
               <div className="flex items-center">
