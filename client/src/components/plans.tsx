@@ -5,18 +5,19 @@ export default function Plans() {
     {
       name: "Site Essencial",
       description: "Para advogados que querem o básico bem feito",
-      price: "R$ 600",
-      priceType: "implantação",
-      monthly: "R$ 30",
-      monthlyNote: "primeiro mês grátis",
+      price: "R$ 700",
+      priceType: "pagamento único, hospedagem inclusa",
+      monthly: "R$ 0",
+      monthlyNote: "sem mensalidade",
       features: [
         "Site baseado em template adaptado para seu escritório",
         "Botão WhatsApp integrado",
         "Design responsivo",
         "Código-fonte incluso",
-        "Prévia em 48h"
+        "Prévia em 48h",
+        "Hospedagem inclusa"
       ],
-      paymentNote: "Pagamento na entrega do site no ar",
+      paymentNote: "Pagamento único na contratação",
       ctaText: "Contratar Site Essencial",
       whatsappMessage: "Quero um Site Essencial",
       popular: false
@@ -47,9 +48,10 @@ export default function Plans() {
     { feature: "Triagem & Agendamento", simple: false, ai: true },
     { feature: "Prévia", simple: "48h", ai: "72h" },
     { feature: "Testes dedicados", simple: false, ai: "3 dias" },
-    { feature: "Mensalidade", simple: "R$ 30", ai: "R$ 150" },
-    { feature: "1º mês grátis", simple: true, ai: true },
-    { feature: "Código fonte incluso", simple: true, ai: true }
+    { feature: "Mensalidade", simple: "R$ 0", ai: "R$ 150" },
+    { feature: "1º mês grátis", simple: false, ai: true },
+    { feature: "Código fonte incluso", simple: true, ai: true },
+    { feature: "Hospedagem inclusa", simple: true, ai: true }
   ];
 
   return (
@@ -60,7 +62,7 @@ export default function Plans() {
             Escolha o plano ideal para você <span className="text-legal-gold"></span>
           </h2>
           <p className="text-xl text-legal-text/80 max-w-3xl mx-auto">
-            Sites baseados em templates adaptados para seu escritório. Pagamento da implantação na entrega e mensalidade inicia após o primeiro mês.
+            Sites baseados em templates adaptados para seu escritório. O plano Essencial inclui hospedagem e não tem mensalidade. O plano com IA no WhatsApp tem mensalidade após o primeiro mês gratuito.
           </p>
         </div>
         

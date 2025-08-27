@@ -22,7 +22,7 @@ export default function Models() {
               Design elegante com paleta de cores escura, ideal para transmitir seriedade, profissionalismo e confiança aos seus clientes
             </p>
             <a 
-              href="https://template-site-simples-01-contato526.replit.app"
+              href="https://seusitejuridico.codenode.com.br/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-legal-gold hover:bg-legal-gold-hover text-legal-dark px-6 py-3 rounded-lg font-semibold inline-flex items-center transition-colors"
