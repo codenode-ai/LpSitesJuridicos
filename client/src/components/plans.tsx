@@ -17,7 +17,7 @@ export default function Plans() {
         "Prévia em 48h",
         "Hospedagem inclusa"
       ],
-      paymentNote: "Pagamento único na contratação",
+      paymentNote: "Pagamento na entrega do site no ar",
       ctaText: "Contratar Site Essencial",
       whatsappMessage: "Quero um Site Essencial",
       popular: false
