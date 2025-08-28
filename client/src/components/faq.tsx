@@ -8,7 +8,7 @@ export default function FAQ() {
   const faqs = [
     {
       question: "Quando recebo a prévia?",
-      answer: "Para o Site Essencial, a prévia é entregue em 48h úteis. Para o Site com IA no WhatsApp, em 72h úteis após confirmação do pagamento."
+      answer: "Para o Site Essencial, a prévia é entregue em 48h. Para o Site com IA no WhatsApp, em 72h após confirmação do pagamento."
     },
     {
       question: "Quando o site vai ao ar?",
@@ -20,7 +20,7 @@ export default function FAQ() {
     },
     {
       question: "Quando começa a mensalidade?",
-      answer: "A mensalidade começa a ser cobrada após o primeiro mês de uso. O primeiro mês é totalmente grátis em ambos os planos."
+      answer: "Apenas o plano com IA possui mensalidade, no plano essencial o pagamento é único na entrega do site. O primeiro mês do planop com IA é totalmente grátis."
     },
     {
       question: "Qual a diferença dos planos?",
