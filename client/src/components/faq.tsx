@@ -20,7 +20,7 @@ export default function FAQ() {
     },
     {
       question: "Quando começa a mensalidade?",
-      answer: "Apenas o plano com IA possui mensalidade, no plano essencial o pagamento é único na entrega do site. O primeiro mês do planop com IA é totalmente grátis."
+      answer: "Apenas o plano com IA possui mensalidade, no plano essencial o pagamento é único na entrega do site. O primeiro mês do plano com IA é totalmente grátis."
     },
     {
       question: "Qual a diferença dos planos?",
