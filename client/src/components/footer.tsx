@@ -32,7 +32,7 @@ export default function Footer() {
                 <WhatsAppIcon />
               </a>
               <a 
-                href="https://www.instagram.com/codenode.ai/" 
+                href="https://www.instagram.com/sitesjuridicos.codenode/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-legal-text hover:text-legal-gold transition-colors"
