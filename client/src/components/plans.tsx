@@ -71,7 +71,7 @@ export default function Plans() {
           {plans.map((plan, index) => (
             <div 
               key={index} 
-              className={`bg-legal-dark/50 p-8 rounded-xl border transition-colors ${
+              className={`flex flex-col bg-legal-dark/50 p-8 rounded-xl border transition-colors ${
                 plan.popular 
                   ? 'border-2 border-legal-gold relative' 
                   : 'border border-legal-accent hover:border-legal-gold'
@@ -98,7 +98,7 @@ export default function Plans() {
                 <p className="text-sm text-legal-text/60">{plan.monthlyNote}</p>
               </div>
               
-              <div className="space-y-4 mb-8">
+              <div className="space-y-4 mb-8 flex-grow">
                 {plan.features.map((feature, featureIndex) => (
                   <div key={featureIndex} className="flex items-center text-legal-text">
                     <Check className="w-5 h-5 text-legal-gold mr-3" />
@@ -107,7 +107,7 @@ export default function Plans() {
                 ))}
               </div>
               
-              <div className="text-center">
+              <div className="text-center mt-auto">
                 <div className="text-sm text-legal-text/60 mb-4">
                   {plan.paymentNote}
                 </div>
