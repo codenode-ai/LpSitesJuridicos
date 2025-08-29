@@ -18,9 +18,9 @@ export default function Header() {
           {/* Logo */}
           <div className="flex items-center">
             <img 
-              src="/img/logo-codenode-sitesjuridicos.png" 
+              src="/img/logo-codenode-sitesjuridicos-v2.png" 
               alt="CodeNode - Sites Jurídicos" 
-              className="h-10 w-auto"
+              className="h-12 w-auto"
             />
           </div>
           
