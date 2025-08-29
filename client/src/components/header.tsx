@@ -16,10 +16,12 @@ export default function Header() {
       <nav className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           {/* Logo */}
-          <div className="flex items-center space-x-2">
-            <span className="text-xl font-merriweather font-bold text-legal-gold">
-              CodeNode<span className="text-white">.AI</span>
-            </span>
+          <div className="flex items-center">
+            <img 
+              src="/img/logo-codenode-sitesjuridicos.png" 
+              alt="CodeNode - Sites Jurídicos" 
+              className="h-10 w-auto"
+            />
           </div>
           
           {/* Desktop Navigation */}
