@@ -105,7 +105,7 @@ export default function Contact() {
                     href="mailto:contato@codenode.com.br" 
                     className="text-legal-gold hover:text-legal-gold-hover transition-colors"
                   >
-                    contato@codenode.com.br
+                    sitesjuridicos@codenode.com.br
                   </a>
                 </div>
               </div>
