@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="container mx-auto text-center">
         <div className="max-w-4xl mx-auto mt-[46px] mb-[46px]">
           <h1 className="text-4xl md:text-6xl font-merriweather font-bold mb-6 leading-tight text-legal-text">
-            Seu primeiro site jurídico{" "}
+            Transforme sua presença digital com um site{" "}
             <span className="text-legal-gold">profissional</span>
           </h1>
           <p className="text-xl md:text-2xl text-legal-text/80 mb-12 leading-relaxed">
