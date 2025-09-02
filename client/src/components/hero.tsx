@@ -7,11 +7,11 @@ export default function Hero() {
     <section id="inicio" className="pt-24 pb-16 px-4">
       <div className="container mx-auto text-center">
         <div className="max-w-4xl mx-auto mt-[46px] mb-[46px]">
-          <h1 className="text-4xl md:text-6xl font-merriweather font-bold mb-6 leading-tight text-legal-text">
+          <h1 className="text-4xl md:text-6xl font-merriweather font-bold mb-6 leading-snug text-legal-text">
             Transforme sua presença digital com um site{" "}
             <span className="text-legal-gold">profissional</span>
           </h1>
-          <p className="text-xl md:text-2xl text-legal-text/80 mb-12 leading-relaxed">
+          <p className="text-xl md:text-2xl text-legal-text/80 mb-12 leading-loose">
             Criamos sites modernos baseados em templates profissionais, adaptados para advogados autônomos que ainda não possuem presença digital.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
