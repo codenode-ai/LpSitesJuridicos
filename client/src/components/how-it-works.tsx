@@ -3,22 +3,22 @@ export default function HowItWorks() {
     {
       number: "1",
       title: "Briefing inicial",
-      description: "Uma conversa inicial para entender sua atuação e necessidades."
+      description: "Coletamos os dados do seu escritório para a personalização do modelo."
     },
     {
       number: "2",
-      title: "Protótipo Visual",
-      description: "Apresentamos a estrutura e o layout inicial para sua avaliação."
+      title: "Apravoção e ajustes",
+      description: "Enviamos o link com a versão personalizada para eventuais ajustes e aprovação."
     },
     {
       number: "3",
-      title: "Desenvolvimento",
-      description: "Construção da versão final com design e funcionalidades aprovados por você."
+      title: "Deploy",
+      description: "Hospedagem do site na versão final aprovada pelo cliente."
     },
     {
       number: "4",
-      title: "Entrega do Site",
-      description: "Publicação do site no domínio fornecido pelo cliente."
+      title: "Entrega",
+      description: "Publicação do site no domínio fornecido pelo cliente e envio do código fonte."
     }
   ];
 
