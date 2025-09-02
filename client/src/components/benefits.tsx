@@ -5,22 +5,22 @@ export default function Benefits() {
     {
       icon: <Shield className="w-8 h-8" />,
       title: "Credibilidade",
-      description: "Presença digital que reforça sua imagem profissional"
+      description: "Presença digital que reforça sua imagem profissional."
     },
     {
       icon: <Eye className="w-8 h-8" />,
       title: "Clareza",
-      description: "Seus serviços apresentados de forma clara e objetiva"
+      description: "Seus serviços apresentados de forma clara e objetiva."
     },
     {
       icon: <MessageCircle className="w-8 h-8" />,
       title: "Contato imediato",
-      description: "Botão de WhatsApp sempre visível para facilitar o primeiro contato"
+      description: "Botão de WhatsApp sempre visível para facilitar o primeiro contato."
     },
     {
       icon: <Scale className="w-8 h-8" />,
       title: "Compliance",
-      description: "Estrutura alinhada às normas da OAB"
+      description: "Estrutura alinhada às normas da OAB."
     }
   ];
 

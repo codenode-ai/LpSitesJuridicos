@@ -7,7 +7,7 @@ export default function HowItWorks() {
     },
     {
       number: "2",
-      title: "Apravoção e ajustes",
+      title: "Aprovação e ajustes",
       description: "Enviamos o link com a versão personalizada para eventuais ajustes e aprovação."
     },
     {
