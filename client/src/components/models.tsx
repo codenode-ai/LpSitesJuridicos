@@ -16,7 +16,7 @@ export default function Models() {
         <div className="max-w-md mx-auto">
           <div className="bg-legal-dark/50 p-8 rounded-xl border border-legal-accent hover:border-legal-gold transition-colors text-center">
             <h3 className="text-2xl font-merriweather font-bold mb-4 text-legal-text">
-              Template Profissional
+              Modelo Profissional
             </h3>
             <p className="text-legal-text/80 mb-6">
               Design elegante com paleta de cores escura, ideal para transmitir seriedade, profissionalismo e confiança aos seus clientes

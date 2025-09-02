@@ -12,7 +12,7 @@ export default function Hero() {
             <span className="text-legal-gold">Site Profissional</span>
           </h1>
           <p className="text-xl md:text-2xl text-legal-text/80 mb-12 leading-loose">
-            Tenha um site profissional,com base em um modelo de design moderno, bem estruturado e com a opção de IA no whatsapp para automatizar o atendimento.
+            Tenha um site profissional, com base em um modelo de design moderno, bem estruturado e com a opção de IA no whatsapp para automatizar o atendimento.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button 
