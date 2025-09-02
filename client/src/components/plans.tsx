@@ -112,7 +112,7 @@ export default function Plans() {
                   {plan.paymentNote}
                 </div>
                 <a 
-                  href={`https://wa.me/5548991974158?text=${encodeURIComponent(plan.whatsappMessage)}`}
+                  href={`https://wa.me/5534996670069?text=${encodeURIComponent(plan.whatsappMessage)}`}
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="block bg-legal-gold hover:bg-legal-gold-hover text-legal-dark px-6 py-3 rounded-lg font-semibold transition-colors"
