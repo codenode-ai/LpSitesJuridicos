@@ -7,16 +7,16 @@ export default function FAQ() {
 
   const faqs = [
     {
-      question: "Quando recebo a prévia?",
-      answer: "Para o Site Essencial, a prévia é entregue em 48h. Para o Site com IA no WhatsApp, em 72h após confirmação do pagamento."
+      question: "Quando recebo meu site?",
+      answer: "Para o Site Essencial, o prazo de entrega é de 48h. Para o Site com IA no WhatsApp, entrega em 5 dias, sendo 3 dias dedicados a testes e ajustes."
     },
     {
       question: "Quando o site vai ao ar?",
-      answer: "O Site Essencial vai ao ar 48h após aprovação da prévia. O Site com IA no WhatsApp vai ao ar após 3 dias dedicados de testes do agente de IA e aprovação final."
+      answer: "O Site Essencial vai ao ar em 48h. O Site com IA no WhatsApp vai ao ar após 3 dias dedicados de testes do agente de IA e aprovação final."
     },
     {
       question: "Preciso ter domínio?",
-      answer: "Você pode fornecer seu próprio domínio ou a CodeNode pode registrar um novo para você (custo adicional conforme tabela de registro)."
+      answer: "Não, a CodeNode cuida do registro e configuração do domínio no nome do cliente."
     },
     {
       question: "Quando começa a mensalidade?",
@@ -24,7 +24,7 @@ export default function FAQ() {
     },
     {
       question: "Qual a diferença dos planos?",
-      answer: "O Site Essencial é baseado em template adaptado com botão WhatsApp. O Site com IA no WhatsApp inclui tudo isso mais atendimento automatizado 24/7, triagem de leads e agendamento de consultas."
+      answer: "O Site Essencial é baseado em template adaptado com botão WhatsApp. O Site com IA no WhatsApp inclui tudo isso mais o agente de IA conectado ao whatsapp."
     },
     {
       question: "Como funciona o período de testes do agente de IA?",
