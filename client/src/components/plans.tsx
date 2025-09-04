@@ -172,13 +172,6 @@ export default function Plans() {
             </div>
           </div>
         </div>
-        
-        <div className="text-center mt-8">
-          <p className="text-legal-text/60 flex items-center justify-center">
-            <Info className="w-4 h-4 mr-2" />
-            Cliente fornece domínio ou CodeNode registra (custo extra)
-          </p>
-        </div>
       </div>
     </section>
   );
