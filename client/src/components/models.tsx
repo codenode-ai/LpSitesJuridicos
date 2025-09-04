@@ -11,7 +11,7 @@ export default function Models() {
             Nossos <span className="text-legal-gold">Modelos</span>
           </h2>
           <p className="text-xl text-legal-text/80 max-w-3xl mx-auto">
-            Escolha entre nossos templates profissionais, adaptados para seu escritório
+            Escolha entre nossos templates profissionais, adaptados para representar você e seu escritório
           </p>
         </div>
         
@@ -23,7 +23,7 @@ export default function Models() {
                 Modelo Dr. Valter
               </CardTitle>
               <CardDescription className="text-legal-text/80">
-                Design elegante com paleta de cores escura, ideal para transmitir seriedade, profissionalismo e confiança aos seus clientes
+                Design elegante com paleta de cores escura, ideal para transmitir seriedade, profissionalismo e confiança. Perfeito para advogados que buscam uma imagem sólida e respeitada no mercado.
               </CardDescription>
             </CardHeader>
             <CardContent className="text-center">
@@ -50,7 +50,7 @@ export default function Models() {
                 Modelo Dra. Camila
               </CardTitle>
               <CardDescription className="text-legal-text/80">
-                Design moderno e clean, com foco em clareza e acessibilidade para atrair um público diversificado
+                Design moderno e clean, com foco em clareza e acessibilidade. Ideal para advogadas que desejam transmitir empatia e proximidade, sem perder a autoridade profissional.
               </CardDescription>
             </CardHeader>
             <CardContent className="text-center">

@@ -24,7 +24,7 @@ export default function ModeloAdvogada() {
         <div className="container mx-auto text-center">
           <div className="max-w-4xl mx-auto">
             <h1 className="text-4xl md:text-6xl font-merriweather font-bold mb-6 leading-tight text-legal-text">
-              Dra. Maria Silva
+              Dra. Camila
             </h1>
             <p className="text-xl md:text-2xl text-legal-text/80 mb-8">
               <span className="text-legal-gold">Advocacia Familiar e Civil</span> • OAB/SP 654.321
@@ -57,7 +57,7 @@ export default function ModeloAdvogada() {
               Sobre o <span className="text-legal-gold">Escritório</span>
             </h2>
             <p className="text-lg text-legal-text/90 leading-relaxed mb-8">
-              O escritório da Dra. Maria Silva é especializado em direito de família e civil, oferecendo atendimento personalizado e humanizado. Nossa missão é proteger os direitos da família brasileira com competência, ética e dedicação.
+              O escritório da Dra. Camila é especializado em direito de família e civil, oferecendo atendimento personalizado e humanizado. Nossa missão é proteger os direitos da família brasileira com competência, ética e dedicação.
             </p>
             <div className="grid md:grid-cols-3 gap-8">
               <div className="text-center">
@@ -121,7 +121,7 @@ export default function ModeloAdvogada() {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <p className="text-lg text-legal-text/90 leading-relaxed mb-6">
-                  Dra. Maria Silva é graduada em Direito pela Pontifícia Universidade Católica de São Paulo (PUC-SP) e possui especialização em Direito de Família e Sucessões.
+                  Dra. Camila é graduada em Direito pela Pontifícia Universidade Católica de São Paulo (PUC-SP) e possui especialização em Direito de Família e Sucessões.
                 </p>
                 <p className="text-lg text-legal-text/90 leading-relaxed">
                   Com mais de 12 anos de experiência, dedica-se exclusivamente ao direito de família, sempre priorizando o diálogo e a busca por soluções que preservem os vínculos familiares.
@@ -256,7 +256,7 @@ export default function ModeloAdvogada() {
       <footer className="bg-legal-dark border-t border-legal-accent py-8">
         <div className="container mx-auto px-4 text-center">
           <p className="text-legal-text/60">
-            © 2024 Dra. Maria Silva - Advocacia Familiar • Este é um modelo demonstrativo criado pela CodeNode.AI
+            © 2024 Dra. Camila - Advocacia Familiar • Este é um modelo demonstrativo criado pela CodeNode.AI
           </p>
         </div>
       </footer>

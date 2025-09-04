@@ -24,7 +24,7 @@ export default function ModeloAdvogado() {
         <div className="container mx-auto text-center">
           <div className="max-w-4xl mx-auto">
             <h1 className="text-4xl md:text-6xl font-merriweather font-bold mb-6 leading-tight text-legal-text">
-              Dr. João Santos
+              Dr. Valter
             </h1>
             <p className="text-xl md:text-2xl text-legal-text/80 mb-8">
               <span className="text-legal-gold">Advogado Criminalista</span> • OAB/SP 123.456
@@ -57,7 +57,7 @@ export default function ModeloAdvogado() {
               Sobre o <span className="text-legal-gold">Escritório</span>
             </h2>
             <p className="text-lg text-legal-text/90 leading-relaxed mb-8">
-              O escritório do Dr. João Santos é especializado em direito criminal, oferecendo defesa técnica qualificada em todas as fases do processo penal. Nossa atuação é pautada pela ética, transparência e busca incansável pela justiça.
+              O escritório do Dr. Valter é especializado em direito criminal, oferecendo defesa técnica qualificada em todas as fases do processo penal. Nossa atuação é pautada pela ética, transparência e busca incansável pela justiça.
             </p>
             <div className="grid md:grid-cols-3 gap-8">
               <div className="text-center">
@@ -121,7 +121,7 @@ export default function ModeloAdvogado() {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <p className="text-lg text-legal-text/90 leading-relaxed mb-6">
-                  Dr. João Santos é graduado em Direito pela Universidade de São Paulo (USP) e possui especialização em Direito Criminal pela Escola Paulista da Magistratura.
+                  Dr. Valter é graduado em Direito pela Universidade de São Paulo (USP) e possui especialização em Direito Criminal pela Escola Paulista da Magistratura.
                 </p>
                 <p className="text-lg text-legal-text/90 leading-relaxed">
                   Com mais de 15 anos de experiência, atua em casos de alta complexidade, sempre priorizando a defesa técnica qualificada e o atendimento humanizado ao cliente.
@@ -230,7 +230,7 @@ export default function ModeloAdvogado() {
       <footer className="bg-legal-dark border-t border-legal-accent py-8">
         <div className="container mx-auto px-4 text-center">
           <p className="text-legal-text/60">
-            © 2024 Dr. João Santos - Advocacia Criminal • Este é um modelo demonstrativo criado pela CodeNode.AI
+            © 2024 Dr. Valter - Advocacia Criminal • Este é um modelo demonstrativo criado pela CodeNode.AI
           </p>
         </div>
       </footer>
