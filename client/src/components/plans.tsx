@@ -5,7 +5,7 @@ export default function Plans() {
     {
       name: "Site Essencial",
       description: "Para advogados que querem o básico bem feito",
-      price: "R$ 700",
+      price: "R$ 500",
       priceType: "pagamento único, hospedagem inclusa",
       monthly: "R$ 0",
       monthlyNote: "sem mensalidade",
@@ -14,7 +14,7 @@ export default function Plans() {
         "Botão WhatsApp integrado",
         "Design responsivo",
         "Código-fonte incluso",
-        "Prévia em 48h",
+        "Entrega em 48h",
         "Hospedagem inclusa"
       ],
       paymentNote: "Pagamento na entrega do site no ar",
@@ -46,7 +46,7 @@ export default function Plans() {
   const comparisonFeatures = [
     { feature: "Botão WhatsApp", simple: true, ai: true },
     { feature: "Triagem & Agendamento", simple: false, ai: true },
-    { feature: "Prévia", simple: "48h", ai: "72h" },
+    { feature: "Entrega", simple: "48h", ai: "72h" },
     { feature: "Testes dedicados", simple: false, ai: "3 dias" },
     { feature: "Mensalidade", simple: "R$ 0", ai: "R$ 150" },
     { feature: "1º mês grátis", simple: false, ai: true },
