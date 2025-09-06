@@ -8,14 +8,14 @@ export default function Models() {
       <div className="container mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-merriweather font-bold mb-6 text-legal-text">
-            Nossos <span className="text-legal-gold">Modelos</span>
+            Nosso <span className="text-legal-gold">Modelo</span>
           </h2>
           <p className="text-xl text-legal-text/80 max-w-3xl mx-auto">
-            Escolha entre nossos templates profissionais, adaptados para representar você e seu escritório
+            Confira nosso template profissional, adaptado para representar você e seu escritório
           </p>
         </div>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-1 gap-8 max-w-4xl mx-auto">
           {/* Modelo Dr. Valter */}
           <Card className="bg-legal-dark/50 border-legal-accent hover:border-legal-gold transition-colors">
             <CardHeader className="text-center">
@@ -33,33 +33,6 @@ export default function Models() {
               >
                 <a 
                   href="https://seusitejuridico.codenode.com.br/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Ver o modelo
-                  <ExternalLink className="w-4 h-4 ml-2" />
-                </a>
-              </Button>
-            </CardContent>
-          </Card>
-          
-          {/* Modelo Dra. Camila */}
-          <Card className="bg-legal-dark/50 border-legal-accent hover:border-legal-gold transition-colors">
-            <CardHeader className="text-center">
-              <CardTitle className="text-2xl font-merriweather text-legal-text">
-                Modelo Dra. Camila
-              </CardTitle>
-              <CardDescription className="text-legal-text/80">
-                Design moderno e clean, com foco em clareza e acessibilidade. Ideal para advogadas que desejam transmitir empatia e proximidade, sem perder a autoridade profissional.
-              </CardDescription>
-            </CardHeader>
-            <CardContent className="text-center">
-              <Button 
-                asChild
-                className="bg-legal-gold hover:bg-legal-gold-hover text-legal-dark px-6 py-3 rounded-lg font-semibold transition-colors"
-              >
-                <a 
-                  href="https://seusitejuridico2.codenode.com.br/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
